@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dart_Score_Bord.Dart">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Dart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.RandomValue&lt;T&gt;">
+    <Position X="11.25" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Dart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.RandomValue">
+    <Position X="11.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAgAAAAAAEAAgAQAAAAAAAA=</HashCode>
+      <FileName>Dart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.FieldsList">
+    <Position X="11.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.Dartboard">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Dartboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.DartFinisher">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAABAAAAAAAAAgAIAAAAAAAAAAAAAAAAAAgAABAAAA=</HashCode>
+      <FileName>DartFinisher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.DartsGame">
+    <Position X="8.25" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="_p2NewScore" Hidden="true" />
+      <Field Name="P2Checkout" Hidden="true" />
+      <Field Name="P2Legs" Hidden="true" />
+      <Field Name="P2Sets" Hidden="true" />
+      <Field Name="P2ThrowedScore" Hidden="true" />
+      <Field Name="P2TotalScore" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>wEAAIBAiACABBAAgABAAKAAAAEAAEAAAQCAAAQIQASQ=</HashCode>
+      <FileName>DartsGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.Field">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.Match">
+    <Position X="6" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAACAQAIgBABEAAAAACAAAAAAA=</HashCode>
+      <FileName>Match.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.Player">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAQBAgDEAAAAAICIAAAAAAFAABAAAAAAAACAI=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dart_Score_Bord.Score">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BBAAABAAEAAFAUAAAAAAAAkAAIIAAAAAkGCAAAEAAEA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Dart_Score_Bord.FieldStatus">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAEAAAAAAACAAAACAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>FieldStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
